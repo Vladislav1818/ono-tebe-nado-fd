@@ -3,10 +3,9 @@
   grid-template-columns: 1fr min-content 1fr;
   justify-content: space-around;
   align-items: center;
-  height: 293px;
   padding-top: 90px;
   padding-right: 50px;
-  padding-bottom: 89px;
+  padding-bottom: 94px;
   padding-left: 50px;
 }
 
@@ -43,7 +42,6 @@
   width: 240px;
   font-size: 18px;
   font-style: normal;
-  height: 98px;
 }
 
 .address__left {
@@ -238,7 +236,6 @@
 }
 
 .about__logo {
-  text-align: center;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -246,6 +243,7 @@
   height: 240px;
   margin: 35px 0 0 47px;
   border-radius: 50%;
+  text-align: center;
   background-color: black;
 
 }
@@ -271,9 +269,9 @@
 .footer {
   display: flex;
   justify-content: space-between;
-  
   margin-top: 186px;
   padding-right: 50px;
+  padding-bottom: 94px;
   padding-left: 50px;
 }
 
