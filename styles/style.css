@@ -61,7 +61,6 @@
   inset: 0;
   z-index: 1;
   background: rgba(0,0,0,0.6);
-  
 }
 
 .cover__title {
@@ -114,7 +113,6 @@
   padding-top: 107px;
   padding-right: 50px;
   padding-left: 50px;
-  
 }
 
 .cover__description-text {
@@ -126,7 +124,6 @@
   font-style: normal;
   text-transform: uppercase;
   word-spacing: 18px;
-
 }
 
 .bet-button {
@@ -206,7 +203,6 @@
   text-decoration-thickness: 2px; 
   text-underline-offset: 4px;
   text-transform: uppercase; 
-  
 }
 
 .card__text {
@@ -245,7 +241,6 @@
   border-radius: 50%;
   text-align: center;
   background-color: black;
-
 }
 
 .about__column-text {
